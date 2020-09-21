@@ -1,0 +1,21 @@
+    ** Blacklist Web App ***
+    
+# Language and Tools
+- PHP
+- MySQL database
+
+# Credentials
+    -username:  user
+    -password:  qwerty
+    
+# database connection
+- After executing the db.sql file enclosed, the connection settings for the 
+  system are inside the file /includes/dbcon.php. Usually the server is localhost with user root
+  without a password. If need be, edit the connection parameters inside.
+    
+
+    ** Notes
+    
+1. Database file is enclosed with name db.sql. Contains the required schema and
+   test data.
+2. requires no additional items.
